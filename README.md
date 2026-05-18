@@ -11,7 +11,7 @@ The core building block of the language is now available as a structured spreads
 **[View Kvayagodvian Alphabet Table](./годвийский_алфавит.xlsx)
 
 **[View Kvayagodvian Alphabet Table](./годвийский_алфавит.csv)
----
+
 
 ## 🚀 Future Roadmap
 
