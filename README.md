@@ -8,9 +8,9 @@ Welcome to the repository for the **Kvayagodvian language** (годвийски�
 
 The core building block of the language is now available as a structured spreadsheet. You can view or download the official alphabet, letters, and pronunciation guide here:
 
-**[View Kvayagodvian Alphabet Table](./годвийский_алфавит.xlsx)
+**[View Kvayagodvian Alphabet Table (.csv)](./годвийский_алфавит.csv)
 
-**[View Kvayagodvian Alphabet Table](./годвийский_алфавит.csv)
+**[View Kvayagodvian Alphabet Table (.xlsx)](./годвийский_алфавит.xlsx)
 
 
 ## 🚀 Future Roadmap
